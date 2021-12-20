@@ -1,4 +1,4 @@
-# React-native-calendar
+# React Native Calendar
 
 This component can be integrated in all react native projects by simply installing it and integrate it as defined in example. You can configure all colors and text as well.
 
